@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/721170986887530922/b0619379f5f64c0194c4ebf7a2db3418/artifacts
+end_time: 1725546330542
+entry_point_name: ''
+experiment_id: '721170986887530922'
+lifecycle_stage: active
+run_id: b0619379f5f64c0194c4ebf7a2db3418
+run_name: salty-sloth-80
+run_uuid: b0619379f5f64c0194c4ebf7a2db3418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725546322603
+status: 3
+tags: []
+user_id: DELL
