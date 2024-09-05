@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/558975744505133712/1ce20804af6a4cfeab3526c4a371dec5/artifacts
+end_time: 1725525214287
+entry_point_name: ''
+experiment_id: '558975744505133712'
+lifecycle_stage: active
+run_id: 1ce20804af6a4cfeab3526c4a371dec5
+run_name: upset-carp-905
+run_uuid: 1ce20804af6a4cfeab3526c4a371dec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725525206975
+status: 3
+tags: []
+user_id: DELL
