@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/558975744505133712/6fb191bfc20b4b2bac941916dd01f6a9/artifacts
+end_time: 1725525701749
+entry_point_name: ''
+experiment_id: '558975744505133712'
+lifecycle_stage: active
+run_id: 6fb191bfc20b4b2bac941916dd01f6a9
+run_name: fortunate-elk-725
+run_uuid: 6fb191bfc20b4b2bac941916dd01f6a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725525695087
+status: 3
+tags: []
+user_id: DELL
